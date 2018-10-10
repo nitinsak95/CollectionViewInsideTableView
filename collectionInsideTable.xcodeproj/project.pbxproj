@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A42C7079206A491700617D4B /* insideCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A42C7078206A491700617D4B /* insideCollectionViewCell.swift */; };
+		A42C707B206A492C00617D4B /* mainTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A42C707A206A492C00617D4B /* mainTableViewCell.swift */; };
 		A446707D206A473000A7B007 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A446707C206A473000A7B007 /* AppDelegate.swift */; };
 		A446707F206A473000A7B007 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A446707E206A473000A7B007 /* ViewController.swift */; };
 		A4467082206A473000A7B007 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A4467080206A473000A7B007 /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A42C7078206A491700617D4B /* insideCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = insideCollectionViewCell.swift; sourceTree = "<group>"; };
+		A42C707A206A492C00617D4B /* mainTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mainTableViewCell.swift; sourceTree = "<group>"; };
 		A4467079206A473000A7B007 /* collectionInsideTable.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = collectionInsideTable.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A446707C206A473000A7B007 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A446707E206A473000A7B007 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +64,8 @@
 				A4467083206A473000A7B007 /* Assets.xcassets */,
 				A4467085206A473000A7B007 /* LaunchScreen.storyboard */,
 				A4467088206A473000A7B007 /* Info.plist */,
+				A42C7078206A491700617D4B /* insideCollectionViewCell.swift */,
+				A42C707A206A492C00617D4B /* mainTableViewCell.swift */,
 			);
 			path = collectionInsideTable;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			files = (
 				A446707F206A473000A7B007 /* ViewController.swift in Sources */,
 				A446707D206A473000A7B007 /* AppDelegate.swift in Sources */,
+				A42C707B206A492C00617D4B /* mainTableViewCell.swift in Sources */,
+				A42C7079206A491700617D4B /* insideCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
